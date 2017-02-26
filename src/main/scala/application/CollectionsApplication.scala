@@ -10,6 +10,7 @@ object CollectionsApplication {
       SeqAndListExample,
       SetExample,
       MapExample,
+      ArrayExample,
       HighOrderFunctionsExample
     )
 
