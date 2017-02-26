@@ -7,6 +7,7 @@ import scala.collection.mutable
   * and some mutable/immutable List which is Java equivalent to LinkedList
   */
 object SeqAndListExample extends CollectionsExample {
+
   def immutableList(): Unit = {
     println("---- IMMUTABLE LIST TEST ----")
     val list = List(1, 2, 3)

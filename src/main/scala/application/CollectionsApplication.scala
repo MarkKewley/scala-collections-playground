@@ -4,7 +4,8 @@ package application
   * Main application
   */
 object CollectionsApplication {
-  val examples =
+
+  val Examples =
     List(
       SeqAndListExample,
       SetExample,
@@ -13,6 +14,6 @@ object CollectionsApplication {
     )
 
   def main(args: Array[String]): Unit = {
-    examples.foreach(_.runExample())
+    Examples.foreach(_.runExample())
   }
 }

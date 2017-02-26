@@ -6,6 +6,7 @@ import scala.collection.mutable
   * Covers basic mutable/immutable Set examples as well as SortedSets
   */
 object SetExample extends CollectionsExample {
+
   def immutableSet(): Unit = {
     println("---- IMMUTABLE SET TEST ----")
     val set = Set("hi", "hi", "chow")

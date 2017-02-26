@@ -11,6 +11,7 @@ import scala.collection.mutable
   * easier to read.
   */
 object MapExample extends CollectionsExample {
+
   def immutableMap(): Unit = {
     println("---- IMMUTABLE MAP TEST ----")
     val map = Map(("key1", 1), ("key2", 2))
