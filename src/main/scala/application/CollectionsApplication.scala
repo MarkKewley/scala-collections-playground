@@ -11,6 +11,9 @@ object CollectionsApplication {
       SetExample,
       MapExample,
       ArrayExample,
+      StringExample,
+      IteratorExample,
+      JavaConversionExample,
       HighOrderFunctionsExample
     )
 
